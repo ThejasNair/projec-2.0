@@ -1,0 +1,35 @@
+h1{
+font-family:'Courier New', Courier, monospace;
+font-size: small;
+font-weight: 100;
+}
+
+h4{
+    background-color:purple;
+    color: green;
+
+}
+
+#camera {
+    height: 500px;
+    width: 400px;
+    border-color:blueviolet;
+}
+
+img {
+    box-shadow: 20px;
+    
+    padding-left: 212px;
+    width: 400px;
+    padding-bottom: 2000;
+}
+
+.column :hover {
+border-radius: 120;
+border-color: aquamarine;
+background-color: blanchedalmond;
+}
+
+.column {
+    display: inline;
+}
